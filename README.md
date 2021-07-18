@@ -1,2 +1,2 @@
 # Naive-Bayes
-Email sender Classification using Naive Bayes
+A basic python code that distinguishes between the sender of email based on the kind of words used by the sender. This is done by feeding the data to the email preprocessor which in turn generates the labels and features. This is then passed to the Naive-Bayes classifier which predicts the sender of the email. 20% of the data is used for testing and rest is used in training the model.
